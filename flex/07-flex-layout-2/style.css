@@ -34,7 +34,6 @@ a {
 }
 .container {
   display: flex;
-  justify-content: end;
   flex-grow: 1;
 }
 .sidebar {
