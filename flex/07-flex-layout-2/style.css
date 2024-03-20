@@ -50,13 +50,16 @@ a {
   border-radius: 4px;
   display: flex;
   padding: 32px;
-  margin: 32px;
-
+  margin: 16px;
+  flex-grow: 1;
+  flex-direction: row;
+  width: 25%;
 }
 
 .card-container {
   display: flex;
   flex-grow: 1;
+  flex-wrap: wrap;
 }
 
 li {
