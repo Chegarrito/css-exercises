@@ -64,10 +64,10 @@ a {
 li {
   text-decoration: none;
   list-style: none;
-  margin: 4px;
-  padding: 4px;
-  margin-left: 8px;
+  padding: 16px;
+
 }
  ul {
-  margin-right: auto;
+  padding: 0px;
+  margin: 0px;
  }
